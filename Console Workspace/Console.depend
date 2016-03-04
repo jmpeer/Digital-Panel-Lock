@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1450495062 source:c:\users\family\desktop\console\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1450494237 source:c:\users\family\desktop\console workspace\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
